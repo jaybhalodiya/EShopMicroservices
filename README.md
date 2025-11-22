@@ -55,5 +55,12 @@
 ## System Architecture
 
 ![System Architecture](scr/System%20Architecture/1.png)
+![System Architecture](scr/System%20Architecture/2.png)
+![System Architecture](scr/System%20Architecture/3.png)
+![System Architecture](scr/System%20Architecture/4.png)
+![System Architecture](scr/System%20Architecture/5.png)
+![System Architecture](scr/System%20Architecture/6.png)
+![System Architecture](scr/System%20Architecture/7.png)
+![System Architecture](scr/System%20Architecture/8.png)
 
 
