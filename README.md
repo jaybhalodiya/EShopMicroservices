@@ -54,6 +54,6 @@
 
 ## System Architecture
 
-![System Architecture](scr/System Architecture/1.png)
+![System Architecture](scr/System%20Architecture/1.png)
 
 
