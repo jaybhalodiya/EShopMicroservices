@@ -52,4 +52,8 @@
   - Containerization of databases
   - Override Environment variables
 
+## System Architecture
+
+![System Architecture](scr/System Architecture/1.png)
+
 
